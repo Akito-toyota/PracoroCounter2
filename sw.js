@@ -5,9 +5,9 @@ const CORE_FILES = [
   "./",
   "./index.html",
   "./manifest.json",
-  "./icon-180.png",
-  "./icon-192.png",
-  "./icon-512.png"
+  "./icon_180.png",
+  "./icon_192.png",
+  "./icon_512.png"
 ];
 
 self.addEventListener(
